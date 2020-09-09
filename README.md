@@ -13,10 +13,10 @@ My system is Windows 10
 Repostitory is: https://github.com/shuroye/SparkDigital
 
 3. Extract the zip files to thier respective directories
-   a. data - C:\data
-   b. Code -  C:\Projects\Spark\src\main\scala\org\huroye\spark\apps\SPARKDIGITAL\target\scala-2.11\classes ...
+   a. data - C:\MOVIES\data
+   b. Code -  C:\MOVIES\target\scala-2.11\classes\movies ...
 
-4. cd C:\Projects\Spark\src\main\scala\org\huroye\spark\apps\SPARKDIGITAL>
+4. cd C:\MOVIES
 
 5. at the prompt type sbt
 
